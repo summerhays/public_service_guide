@@ -7,7 +7,8 @@ source "https://rubygems.org"
 # gem "rails"
 
 # gem "github-pages", "~> 204"
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-coffeescript"
 gem "jemoji"
 gem "webrick"
+gem "yajl-ruby"
