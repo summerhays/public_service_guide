@@ -1,5 +1,5 @@
 current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/yajl-ruby-1.1.0/ext/yajl
-/home/david/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/david/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221231-24792-1ewuqlm.rb extconf.rb
+/home/david/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/david/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221231-28358-9xpmo3.rb extconf.rb
 creating Makefile
 
 current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/yajl-ruby-1.1.0/ext/yajl
