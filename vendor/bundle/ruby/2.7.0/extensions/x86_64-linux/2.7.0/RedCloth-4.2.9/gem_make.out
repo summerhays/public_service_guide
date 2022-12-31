@@ -1,0 +1,136 @@
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+/home/david/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/david/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221231-24792-dfkfcg.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+make "DESTDIR=" clean
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+make "DESTDIR="
+compiling redcloth_attributes.c
+ragel/redcloth_attributes.c.rl: In function ‘redcloth_attribute_parser’:
+ragel/redcloth_attributes.c.rl:27:11: warning: variable ‘act’ set but not used [-Wunused-but-set-variable]
+compiling redcloth_inline.c
+ragel/redcloth_inline.c.rl: In function ‘red_block’:
+ragel/redcloth_inline.c.rl:100:9: warning: variable ‘attr_regs’ set but not used [-Wunused-but-set-variable]
+compiling redcloth_scan.c
+In file included from ragel/redcloth_scan.c.rl:10:
+NONE: In function ‘redcloth_transform’:
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:21:33: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:21:33: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:180:30: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:180:30: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:3:32: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:3:32: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:154:43: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:154:43: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:153:29: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:153:29: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:154:41: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:154:41: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:9:46: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+NONE:9:46: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:24: warning: ‘%s’ directive writing up to 23 bytes into a region of size 10 [-Wformat-overflow=]
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |                        ^~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:138:43: note: in expansion of macro ‘LIST_LAYOUT’
+redcloth.h:214:9: note: ‘sprintf’ output between 7 and 30 bytes into a destination of size 10
+  214 |         sprintf(listm, "%s_close", RSTRING_PTR(end_list)); \
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+redcloth.h:198:5: note: in expansion of macro ‘LIST_CLOSE’
+  198 |     LIST_CLOSE(); \
+      |     ^~~~~~~~~~
+ragel/redcloth_scan.rl:138:43: note: in expansion of macro ‘LIST_LAYOUT’
+linking shared-object redcloth_scan.so
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 redcloth_scan.so ./.gem.20221231-24792-1dc8spb

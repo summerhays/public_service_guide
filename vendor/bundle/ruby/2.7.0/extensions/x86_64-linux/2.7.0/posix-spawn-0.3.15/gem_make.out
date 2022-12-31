@@ -1,0 +1,40 @@
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/posix-spawn-0.3.15/ext
+/home/david/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/david/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221231-24792-gm8kmz.rb extconf.rb
+creating Makefile
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/posix-spawn-0.3.15/ext
+make "DESTDIR=" clean
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/posix-spawn-0.3.15/ext
+make "DESTDIR="
+compiling posix-spawn.c
+posix-spawn.c: In function ‘posixspawn_file_actions_init’:
+posix-spawn.c:226:34: warning: passing argument 2 of ‘rb_hash_foreach’ from incompatible pointer type [-Wincompatible-pointer-types]
+  226 |         rb_hash_foreach(options, posixspawn_file_actions_operations_iter, (VALUE)fops);
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      |                                  |
+      |                                  int (*)(VALUE,  VALUE,  posix_spawn_file_actions_t *) {aka int (*)(long unsigned int,  long unsigned int,  posix_spawn_file_actions_t *)}
+In file included from /home/david/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/ruby/ruby.h:2150,
+                 from /home/david/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/ruby.h:33,
+                 from posix-spawn.c:14:
+/home/david/.rvm/rubies/ruby-2.7.5/include/ruby-2.7.0/ruby/intern.h:558:29: note: expected ‘int (*)(VALUE,  VALUE,  VALUE)’ {aka ‘int (*)(long unsigned int,  long unsigned int,  long unsigned int)’} but argument is of type ‘int (*)(VALUE,  VALUE,  posix_spawn_file_actions_t *)’ {aka ‘int (*)(long unsigned int,  long unsigned int,  posix_spawn_file_actions_t *)’}
+  558 | void rb_hash_foreach(VALUE, int (*)(VALUE, VALUE, VALUE), VALUE);
+      |                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+posix-spawn.c: In function ‘each_env_i’:
+posix-spawn.c:314:17: warning: ‘strncpy’ output truncated before terminating nul copying as many bytes from a string as its length [-Wstringop-truncation]
+  314 |                 strncpy(*ep, name, name_len);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+posix-spawn.c:277:33: note: length computed here
+  277 |         const size_t name_len = strlen(name);
+      |                                 ^~~~~~~~~~~~
+posix-spawn.c:316:17: warning: ‘strncpy’ output truncated before terminating nul copying as many bytes from a string as its length [-Wstringop-truncation]
+  316 |                 strncpy(*ep + name_len + 1, cval, cval_len);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+posix-spawn.c:307:35: note: length computed here
+  307 |                 size_t cval_len = strlen(cval);
+      |                                   ^~~~~~~~~~~~
+linking shared-object posix_spawn_ext.so
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/posix-spawn-0.3.15/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.so ./.gem.20221231-24792-1ip7asy

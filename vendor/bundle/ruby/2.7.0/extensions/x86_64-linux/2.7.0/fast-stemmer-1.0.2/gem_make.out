@@ -1,0 +1,16 @@
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/fast-stemmer-1.0.2/ext
+/home/david/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/david/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221231-24792-zb59dg.rb extconf.rb
+creating Makefile
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" clean
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR="
+compiling porter.c
+compiling porter_wrap.c
+linking shared-object stemmer.so
+
+current directory: /home/david/jekyll/public_service_guide/vendor/bundle/ruby/2.7.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stemmer.so ./.gem.20221231-24792-jo3eu3
