@@ -1,5 +1,4 @@
 ---
-permalink: "/:basename"
 ---
 So, you'd like to get a job with the government. A few minutes of Googling the various websites may have left you utterly confused about how these various levels of government function -- and for good reason, it's confusing. That said, if you're like us, and were riddled with poverty for years, it can be an interesting opportunity. We're relatively delighted with our work experiences.
 
