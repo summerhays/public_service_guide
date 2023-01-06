@@ -14,10 +14,10 @@ Level 04 tends to be Team Lead, 05 the coordinator who the leads would report to
 
 There are over 150 or 200 classifications that include nurses, mechanics, lab scientists, policy advisors and they’re all different
 
-There is also CR which seems to be administrative in others ministries but I haven’t learned enough to go much further into understanding the system or where to find the info. Someone should make a wiki.
+There is also CR which seems to be administrative in others ministries but we haven’t learned enough to go much further into understanding the system or where to find the info. Someone should make a wiki.
 
 ### Pay raise
-The salary goes up by about $5,000 per level. But within each level there are multiple steps. After a year of work you automatically get a pay raise of around $3,000, up to 4 years I think. At the 5th year, only more vacation time
+The salary goes up by about $5,000 per level. But within each level there are multiple steps. After a year of work you automatically get a pay raise of around $3,000, up to 4 years I think. At the 5th year, only more vacation time.
 
 ### Advantages
 Although the municipal government pays better overall, the Federal government offers more flexibility in terms of where one can work within Canada, and more opportunities to work abroad as well.
