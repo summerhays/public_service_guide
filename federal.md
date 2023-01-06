@@ -1,4 +1,5 @@
 ---
+permalink: "/:basename"
 ---
 ## Federal public service
 ### Payscale
@@ -26,3 +27,5 @@ Many work environments in city governments are notoriously toxic as well.
 
 ### Job types
 Although Quebec and the city of Montreal have larger job categories (e.g. professional, technician), this doesn't seem to be the case for the federal government.
+
+[Return home](/)

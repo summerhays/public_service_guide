@@ -1,4 +1,15 @@
 title: "Guide to the Canadian public service"
 description: "A Montreal perspective"
-theme: jekyll-theme-architect
+  # theme: jekyll-theme-architect
 show_downloads: false
+github:
+  is_project_page: false
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
+      path: "assets/PDF"
+    values:
+      PDF: true

@@ -1,4 +1,5 @@
 ---
+permalink: "/:basename"
 ---
 ## Quebec public service
 ### Payscale
@@ -20,3 +21,5 @@ Quebec, to its credit, tends to have a larger salary range than most positions i
 
 ### Quebec's examination system
 For a long time, Quebec had a rather cryptic system of public exams for professional positions. People who passed the exam could be placed in reserve pools for hiring. Quebec would only hire people who had passed the exam, and one had to wait for an examination posting, apply to the posting. It was byzantine. Fortunately, Quebec is getting rid of this odd system. Now, people who haven't passed the exam will be hired for a one-year contract, the exam will be administered on work hours, and Quebec's meagre and fairly expensive employee benefits can then be distributed.
+
+[Return home](/)
