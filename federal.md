@@ -28,4 +28,5 @@ Many work environments in city governments are notoriously toxic as well.
 ### Job types
 Although Quebec and the city of Montreal have larger job categories (e.g. professional, technician), this doesn't seem to be the case for the federal government.
 
-[Return home](/)
+## Hiring delays
+One factor to consider is hiring delays. The group writing this knows several people who've encountered almost yearlong delays in being hired by the federal government.
