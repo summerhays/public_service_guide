@@ -25,6 +25,8 @@ Although the municipal government pays better overall, the Federal government of
 
 Many work environments in city governments are notoriously toxic as well.
 
+The federal government has more advantageous pay for professionals early in their career. A recent graduate for instance can make ~72,000$. However, as mentioned above, there are only four pay raises of a few thousands dollars. The provincial government starts lower but ends higher, rewarding longevity in the position.
+
 ### Job types
 Although Quebec and the city of Montreal have larger job categories (e.g. professional, technician), this doesn't seem to be the case for the federal government.
 
