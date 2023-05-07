@@ -28,5 +28,7 @@ Many work environments in city governments are notoriously toxic as well.
 ### Job types
 Although Quebec and the city of Montreal have larger job categories (e.g. professional, technician), this doesn't seem to be the case for the federal government.
 
+Another job type to note is "casual," "term," and "indeterminate." Casual means a contract of less than 90 days. A term appointment or contract is temporary but longer, whereas an indeterminate contract is a permanent position (i.e. hard to fire). The Quebec government refers to these as *occasionnel* (term) and *permanent* (avec droit de rappel).
+
 ## Hiring delays
-One factor to consider is hiring delays. The group writing this knows several people who've encountered delays of longer than a year before being hired by the federal government.
+One factor to consider is hiring delays. The group writing this knows several people who've encountered delays of longer than a year before being hired by the federal government, not to mention jobs being offered and then retracted, paperwork (security clearance, confidentiality agreements, etc). Expect the unexpected.
