@@ -32,6 +32,12 @@ Although Quebec and the city of Montreal have larger job categories (e.g. profes
 
 Another job type to note is "casual," "term," and "indeterminate." Casual means a contract of less than 90 days. A term appointment or contract is temporary but longer, whereas an indeterminate contract is a permanent position (i.e. hard to fire). The Quebec government refers to these as *occasionnel* (term) and *permanent* (avec droit de rappel).
 
+### Mobility
+Another major advantage of the federal government is mobility. Not only is mobility possible within this vast public service, it is even encouraged, in order to gain workers with broad experience. Possibilities range from trying another department for a year, accepting a new position only to move back to one's old department. 
+
+### Education
+The authors have heard of federal public servants being paid to study full time.
+
 ## Hiring delays
 One factor to consider is hiring delays. The group writing this knows several people who've encountered delays of longer than a year before being hired by the federal government, not to mention jobs being offered and then retracted, paperwork (security clearance, confidentiality agreements, etc). Expect the unexpected.
 ### Using delays to one's advantage
