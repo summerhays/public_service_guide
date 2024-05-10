@@ -3,11 +3,11 @@ permalink: "/:basename"
 ---
 ## Federal public service
 ### Payscale
-One applies to a specific job, for instance AS-02, which will have a five step payscalei published on the [Treasury Website](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp){: rel="noopener" target="_blank"}, published under [appendix 1](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#tocxx327742){: rel="noopener" target="_blank"}.
+One applies to a specific job, for instance AS-02, which will have a five step payscale published on the [Treasury Website](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp){: rel="noopener" target="_blank"}, published under [appendix 1](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#tocxx327742){: rel="noopener" target="_blank"}.
 
 For the given job type, the payscale will come in 4 steps; the most one can make is the highest step.
 
-Moving up to the next level (in this case, AS-03) requires applying for a different job with more responsibilities.
+Moving up to the next level (in this case, AS-03) requires applying for a different job with more responsibilities. Level 04-05 tends to be for people with graduate degrees or equivalent experience.
 
 However each ministry seems to be slightly different. As an example with some classifications like Administrative Services (AS) it only goes up to like a 6, then one would apply for EX after to get an executive assistant job.
 
@@ -34,3 +34,7 @@ Another job type to note is "casual," "term," and "indeterminate." Casual means 
 
 ## Hiring delays
 One factor to consider is hiring delays. The group writing this knows several people who've encountered delays of longer than a year before being hired by the federal government, not to mention jobs being offered and then retracted, paperwork (security clearance, confidentiality agreements, etc). Expect the unexpected.
+### Using delays to one's advantage
+Because hiring delays are so frequent in the federal public service, [managers will hire from pools](https://universityaffairs.ca/career-advice/from-phd-to-life/transition-q-a-anais-bertrand-dansereau-mixed-methods-researcher/){: rel="noopener" target="_blank"} much more readily than from raw external candidates. From which emerges the following principle: *apply to any job for which one is qualified, even if one isn't interested.* Being added to the pool is a quick ticket to being hired, because managers can skip many of the hiring delays and effort. One stays in a pool for three years.
+## Essays
+Being hired for the federal public service often involves answering a number of essay questions regarding one's experience. One piece of advice is to write these essays in a separate document, have them checked by friends, before submitting. They are too involved to write in the webpage. When answering these questions, use the STAR method, being sure to incorporate examples that have the Specific situation, Task, Action, and Result.
